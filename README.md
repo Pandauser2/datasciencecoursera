@@ -19,7 +19,7 @@ Steps
 
 <h1> File structure </h1>
 
-features .txt       subject         |     Activity labels  <br />
+features .txt   |   subject         |     Activity labels  <br />
 --------------  |                   |
 X Test.txt      | Test subject.txt  |   Y Test Activity.txt <br />
 --------------  |                   |
