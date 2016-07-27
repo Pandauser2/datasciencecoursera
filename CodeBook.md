@@ -69,12 +69,12 @@ fBodyGyroJerkMag
 
 The set of variables that were estimated from these signals are: 
 
---mean(): Mean value
---std(): Standard deviation
---mad(): Median absolute deviation 
---max(): Largest value in array
---min(): Smallest value in array
-sma(): Signal magnitude area
+- mean(): Mean value
+- std(): Standard deviation
+- mad(): Median absolute deviation 
+- max(): Largest value in array
+- min(): Smallest value in array
+- sma(): Signal magnitude area
 energy(): Energy measure. Sum of the squares divided by the number of values. 
 iqr(): Interquartile range 
 entropy(): Signal entropy
@@ -89,9 +89,9 @@ angle(): Angle between to vectors.
 
 Additional vectors obtained by averaging the signals in a signal window sample. These are used on the angle() variable:
 
-gravityMean
-tBodyAccMean
-tBodyAccJerkMean
-tBodyGyroMean
-tBodyGyroJerkMean
+- gravityMean
+- tBodyAccMean
+- tBodyAccJerkMean
+- tBodyGyroMean
+- tBodyGyroJerkMean
 
